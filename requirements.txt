@@ -1,0 +1,10 @@
+flask==2.3.3
+flask-cors==4.0.0
+pydantic==2.11.2
+pydantic-settings==2.2.1
+pandas==2.2.1
+psycopg2-binary==2.9.9
+ycombinator-scraper==0.7.0
+python-dotenv==1.0.1
+requests==2.31.0 
+python-jobspy
